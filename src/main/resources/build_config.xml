@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <className>建造者模式.游戏角色创建.AngelBuilder</className>
+</config>

@@ -1,0 +1,15 @@
+/*
+ * Copyright (C), 2013-2020, 天津大海云科技有限公司
+ */
+package 简单工厂;
+
+//折线图类：具体产品类
+class LineChart implements Chart {
+    public LineChart() {
+        System.out.println("创建折线图！");
+    }
+
+    public void display() {
+        System.out.println("显示折线图！");
+    }
+}
